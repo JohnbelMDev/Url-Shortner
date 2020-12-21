@@ -1,6 +1,48 @@
 .App {
   text-align: center;
 }
+body{
+  background: #207DAE
+}
+h2{
+  color:white;
+}
+#buttonCopy{
+  /* width: 30%; */
+  float: right;
+  margin: -5% 365px 0px -1px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+.copy{
+  height:4%;
+}
+.buttonCopy{
+  margin: -5% 365px 0px -1px;
+
+}
+#submitId{
+  width: 40%;
+  box-shadow: 0 14px 28px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  height: 4em;
+}
+#copyId{
+  width: 40%;
+  height: 4em;
+  margin:12px 2px 6px -5%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+button{
+  background-color:#2A5BD7;
+  color:white;
+  height: 5em;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  width: 5%;
+}
 
 .App-logo {
   height: 40vmin;
