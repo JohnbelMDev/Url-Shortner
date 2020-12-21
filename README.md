@@ -1,6 +1,5 @@
-# Url-Shortner
 
- <h1> Develop a fully functioning wesbite where users can shorten their link. </h1>
+ <h2> Developed a fully functioning wesbite where users can shorten their url link. </hh2>
  
  <h2> Tech used </h2>
       <ol>
