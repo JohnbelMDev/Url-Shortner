@@ -34,7 +34,7 @@ function App() {
   return (
     <div className="App">
     <h2> Url Shortner </h2>
-    <input id="submitId" placeholder="Enter the link shorten"onChange = {(e)=>setInput(e.target.value)} />
+    <input id="submitId" placeholder="Enter the link to shorten"onChange = {(e)=>setInput(e.target.value)} />
     <button onClick = {axious}>Submit</button>
     <section>
     <div>
